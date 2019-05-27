@@ -1,0 +1,7 @@
+ul.acf-radio-list li {margin-right: 10px !important;}
+ul.acf-radio-list input[type="radio"] {display: none;}
+ul.acf-radio-list label {line-height: 28px;color: #555;border-color: #ccc;background: #f7f7f7;-webkit-box-shadow: 0 1px 0 #ccc;box-shadow: 0 1px 0 #ccc;display: inline-block;font-size: 13px;height: 28px;padding: 4px 12px;cursor: pointer;border-width: 1px;border-style: solid;-webkit-appearance: none;-webkit-border-radius: 3px;border-radius: 3px;white-space: nowrap;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+ul.acf-radio-list label:hover {background: #fafafa;border-color: #999;color: #23282d;}
+ul.acf-radio-list label.selected {background: #0085ba;border-color: #0073aa #006799 #006799;-webkit-box-shadow: 0 1px 0 #006799;box-shadow: 0 1px 0 #006799;color: #fff;text-decoration: none;text-shadow: 0 -1px 1px #006799,1px 0 1px #006799,0 1px 1px #006799,-1px 0 1px #006799;}
+.acf-repeater .acf-row-handle.remove .acf-icon.-plus.small {display: none;}
+.acf-repeater .acf-row-handle.remove .acf-icon.-minus.small {display: inline;border: none;color: #333;font-size: 16px;background: transparent;right: 7px;}
